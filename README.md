@@ -1,2 +1,2 @@
 # test
- Automate sentence
+ Automate a sentence using python
